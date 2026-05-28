@@ -1,0 +1,3 @@
+Wolfram Mathematica 11.3 or higher
+
+Python - numpy, matplotlib.pyplot
